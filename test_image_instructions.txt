@@ -1,0 +1,12 @@
+To test image OCR functionality:
+
+1. Take a screenshot of the sample_health_report.txt file
+2. Save it as a PNG or JPG file
+3. Upload it to test the Google Vision API OCR
+
+Or create a simple image with text like:
+"HEALTH REPORT
+Hemoglobin 13.2 g/dL 12.0-15.5
+WBC 7800 cells/μL 4,500-11,000"
+
+This will test the image processing and OCR capabilities. 

@@ -1,0 +1,26 @@
+HEALTH REPORT
+
+Patient: John Doe
+Date: 2024-01-15
+
+LABORATORY RESULTS:
+
+Hemoglobin 13.2 g/dL 12.0-15.5
+WBC 7800 cells/μL 4,500-11,000
+RBC 4.8 million/μL 4.5-5.9
+Platelets 250 thousand/μL 150-450
+Glucose 95 mg/dL 70-100
+Cholesterol 180 mg/dL <200
+HDL 45 mg/dL >40
+LDL 90 mg/dL <100
+Triglycerides 120 mg/dL <150
+Creatinine 1.0 mg/dL 0.6-1.2
+BUN 15 mg/dL 7-20
+Sodium 140 mEq/L 135-145
+Potassium 4.2 mEq/L 3.5-5.0
+Chloride 102 mEq/L 96-106
+CO2 24 mEq/L 22-28
+
+NOTES:
+All values are within normal range.
+Follow-up in 6 months recommended. 
