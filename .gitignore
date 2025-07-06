@@ -41,3 +41,4 @@ yarn-error.log*
 next-env.d.ts
 server/credentials/vision-key.json
 
+/app/server/credentials
